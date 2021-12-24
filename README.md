@@ -2,4 +2,4 @@
 
 >>> Kolay Mini Oyunlar
 
->>> Python3 ile yapmış olduğum basit mini oyunlar
+->> Python3 ile yapmış olduğum basit mini oyunlar
